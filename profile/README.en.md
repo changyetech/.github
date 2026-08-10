@@ -35,4 +35,4 @@ Your Swiss Army Knife for Dev — a free collection of online developer tools.
 
 Questions or feedback about our products or services? We are glad to hear from you.
 
-📮 [support@changyetech.com](mailto:support@changyetech.com)
+📮 [contact@changyetech.com](mailto:contact@changyetech.com)

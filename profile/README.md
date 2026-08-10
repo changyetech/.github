@@ -35,4 +35,4 @@
 
 如对我们的产品或服务有问题或建议,欢迎与我们联系。
 
-📮 [support@changyetech.com](mailto:support@changyetech.com)
+📮 [contact@changyetech.com](mailto:contact@changyetech.com)
