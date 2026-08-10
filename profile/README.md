@@ -6,7 +6,7 @@
 
 **我们构建开发者工具,也提供技术支持服务。**
 
-[changyetech.cn](https://changyetech.cn) · [changyetech.com](https://changyetech.com) · [English](./README.en.md)
+[changyetech.com](https://changyetech.com) · [English](./README.en.md)
 
 </div>
 
@@ -35,4 +35,4 @@
 
 如对我们的产品或服务有问题或建议,欢迎与我们联系。
 
-📮 [support@changyetech.cn](mailto:support@changyetech.cn)
+📮 [support@changyetech.com](mailto:support@changyetech.com)

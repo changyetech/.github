@@ -6,7 +6,7 @@
 
 **We build developer tools and provide technical support services.**
 
-[changyetech.com](https://changyetech.com) · [changyetech.cn](https://changyetech.cn) · [中文](./README.md)
+[changyetech.com](https://changyetech.com) · [中文](./README.md)
 
 </div>
 
