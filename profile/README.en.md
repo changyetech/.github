@@ -31,6 +31,14 @@ Your Swiss Army Knife for Dev — a free collection of online developer tools.
 - Runs locally in your browser
 - No sign-up required
 
+### [Preflight](https://preflight.omnikit.run)
+
+A network environment checkup — know your network before you use IP-sensitive tools.
+
+- Checks exit IP, timezone consistency, IPv6 / DNS leaks, and more
+- Web version runs 6 checks with zero setup; the Rust CLI covers all 10
+- No check results are ever stored
+
 ## Contact
 
 Questions or feedback about our products or services? We are glad to hear from you.
