@@ -39,6 +39,14 @@ A network environment checkup — know your network before you use IP-sensitive 
 - Web version runs 6 checks with zero setup; the Rust CLI covers all 10
 - No check results are ever stored
 
+### [Tab Station](https://tabstation.omnikit.run)
+
+Every tab in every window, on one page.
+
+- A Chrome extension whose new tab page is a write-through console — dragging, moving and closing act on the real tabs
+- One-click dedupe with a preview before it runs, plus read-later and window sessions
+- Data stays on your machine; zero network requests
+
 ## Contact
 
 Questions or feedback about our products or services? We are glad to hear from you.
